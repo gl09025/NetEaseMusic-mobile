@@ -279,7 +279,7 @@ a, a:visited {
     padding-left: 13px;
     color: #fff;
     font-size: 12px;
-    background: url(./svg/earphone.svg) 0 no-repeat;
+    background: url(../svg/earphone.svg) 0 no-repeat;
     background-size: 11px 10px;
     text-shadow: 1px 0 0 rgba(0,0,0,.15);
 }
@@ -378,7 +378,7 @@ a, a:visited {
 }
 
 .u-hmsprt {
-    background: url(./images/index/spirits.png) no-repeat;
+    background: url(../images/index/spirits.png) no-repeat;
     background-size: 166px 97px;
 }
 
@@ -394,7 +394,7 @@ a, a:visited {
     position: relative;
     padding-top: 53.3%;
     margin-top: 4px;
-    background: url(./images/index/footer-background.png) no-repeat;
+    background: url(../images/index/footer-background.png) no-repeat;
     background-size: contain;
 }
 
@@ -447,7 +447,7 @@ a, a:visited {
     position: relative;
     padding-top: 38.9%;
     overflow: hidden;
-    background: url(//s3.music.126.net/m/s/img/hot_music_bg_2x.jpg?f01a252389c26bcf016816242eaa6aee) no-repeat;
+    background: url(../images/index/hot_music_bg_2x.jpg) no-repeat;
     background-size: contain;
 }
 
@@ -494,7 +494,7 @@ a, a:visited {
 
 
 .u-hmsprt {
-    background: url(./images/index/spirits.png) no-repeat;
+    background: url(../images/index/spirits.png) no-repeat;
     background-size: 166px 97px;
     width: 142px;
     height: 67px;
@@ -532,7 +532,7 @@ a, a:visited {
     display: inline-block;
     color: #999;
     padding-right: 14px;
-    background: url('./svg/arrow-right.svg') 100% no-repeat;
+    background: url('../svg/arrow-right.svg') 100% no-repeat;
     background-size: 7px 12px;
 }
 
@@ -561,7 +561,7 @@ a, a:visited {
     vertical-align: middle;
     width: 13px;
     height: 13px;
-    background-image: url(./svg/search.svg);
+    background-image: url(../svg/search.svg);
 }
 
 .input {
@@ -601,7 +601,7 @@ a, a:visited {
 .u-svg-search {
     width: 15px;
     height: 15px;
-    background-image: url(./svg/search.svg);
+    background-image: url(../svg/search.svg);
     display: inline-block;
     vertical-align: middle;
     background-position: 0 0;

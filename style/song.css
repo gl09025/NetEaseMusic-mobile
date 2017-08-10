@@ -79,7 +79,7 @@ body {
     height: 137px;
     top: -70px;
     left: 133px;
-    background-image: url(./images/song/needle-ip6.png);
+    background-image: url(../images/song/needle-ip6.png);
     background-size: contain;
     z-index: 5;
 }
@@ -97,7 +97,7 @@ body {
     top: 0;
     bottom: 0;
     z-index: 2;
-    background: url(./images/song/disc-ip6.png) no-repeat;
+    background: url(../images/song/disc-ip6.png) no-repeat;
     background-size: contain;
 }
 
@@ -108,7 +108,7 @@ body {
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url(./images/song/disc_light-ip6.png);
+    background-image: url(../images/song/disc_light-ip6.png);
     background-size: contain;
     z-index: 3;
 }
@@ -123,7 +123,7 @@ body {
     z-index: 1;
     border-radius: 50%;
     overflow: hidden;
-    background: url(./images/song/song-img.png) no-repeat;
+    background: url(../images/song/song-img.png) no-repeat;
     background-size: contain;
 
 }
@@ -142,7 +142,7 @@ body {
     top: 50%;
     transform: translate(-50%,-50%);
     z-index: 10;
-    background: url(./images/song/play.png) 0 0 no-repeat;
+    background: url(../images/song/play.png) 0 0 no-repeat;
     background-size: contain;
 }
 
@@ -154,7 +154,7 @@ body {
     top: 50%;
     transform: translate(-50%,-50%);
     z-index: 10;
-    background: url(./images/song/pause.png) 0 0 no-repeat;
+    background: url(../images/song/pause.png) 0 0 no-repeat;
     background-size: contain;
     display: none;
 }
